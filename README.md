@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ahmed Shahab</h1>
-<h3 align="center">A freelance machine learning engineer on UpWork.</h3>
+<h3 align="center">A freelance AI engineer on UpWork.</h3>
 <img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1000%2F1*NLnnf_M4Nlm4p1GAWrWUCQ.gif&f=1&nofb=1&ipt=a22bb44251711e5723c4bd809e28f03dff453dabc2aec90f40d8a67c80e54de7&ipo=images">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahab-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="shahab-ahmed" /> </p>
 
-- 🔭 I’m currently working on **Sentiment Analysis with Twitter**
+- 🔭 I’m currently working on **Learning MLOps**
 
 - 🌱 I’m currently learning **Advanced Computer Vision**
 
