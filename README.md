@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahab-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="shahab-ahmed" /> </p>
 
-- 🔭 I’m currently working on **Computer Vision based Tennis Analysis**
+- 🔭 I’m currently working on **Time Series Analysis for Real Time Air Quality Prediction**
 
 - 🌱 I’m currently learning **MLOps**
 
